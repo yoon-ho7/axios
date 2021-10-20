@@ -65,4 +65,3 @@ npm install axios
 - **data** - HTTP요청 보디에 실어서 보낼 데이터를 의미<PUT, POST, DELETE, PATCH 등의 메서드에서 사용>
 - **timeout** - HTTP요청을 보내고 응답을 받기까지의 제한 시간을 설정하는 속성<요청 시간이 지정된 값을 초과하면 에러 발생>
 - **responseType** - 서버로부터 어떠한 데이터 형식으로 응답받을지 지정하는 것<옵션으로는 arraybuffer, document, json, text, stream이 가능, 기본값은 json>
-
